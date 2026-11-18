@@ -1,0 +1,12 @@
+{
+  "name": "MyFirstApp",
+  "displayName": "MyFirstApp",
+  "plugins": [
+    "expo-asset"
+  ],
+  "extra": {
+    "eas": {
+      "projectId": "9193bc1f-896a-4eeb-bd9a-a4286f76cd9d"
+    }
+  }
+}
