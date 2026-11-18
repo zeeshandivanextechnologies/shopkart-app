@@ -1,0 +1,269 @@
+/* Google Font Import: Poppins (Clean Modern Weights) */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&display=swap');
+
+:root {
+  /* Brand Flipkart / ShopKart Palette */
+  --primary-color: #2874F0;
+  --primary-dark: #1254C2;
+  --primary-light: #EEF4FF;
+  --secondary-color: #FB641B;
+  --secondary-light: #FFF2EB;
+  --accent-color: #FF9F00;
+  
+  /* Rich Clean Backgrounds */
+  --bg-color: #F8FAFC;         /* Crisp Slate 50 Background */
+  --surface-color: #FFFFFF;    /* Pure Card Surface */
+  
+  /* Typography Colors */
+  --text-primary: #0F172A;     /* Slate 900 - High Contrast Readable */
+  --text-secondary: #475569;   /* Slate 600 - Perfect subtitle readability */
+  --text-muted: #64748B;       /* Slate 500 - Not washed out */
+  --border-color: #E2E8F0;     /* Slate 200 - Clean micro borders */
+  
+  /* Dimensions */
+  --sidebar-width: 270px;
+  --sidebar-collapsed-width: 80px;
+  --header-height: 70px;
+  --font-family-base: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  
+  /* Modern SaaS Floating Soft Shadows */
+  --shadow-card: 0 4px 20px -2px rgba(15, 23, 42, 0.05), 0 2px 6px -1px rgba(15, 23, 42, 0.02);
+  --shadow-card-hover: 0 16px 32px -4px rgba(15, 23, 42, 0.09), 0 6px 12px -2px rgba(15, 23, 42, 0.04);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+  font-family: var(--font-family-base);
+  font-size: 14.5px;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+/* Typography Hierarchy - Perfectly Proportioned Font Sizes */
+h1, .h1 { font-size: 2rem; font-weight: 700; letter-spacing: -0.03em; color: var(--text-primary); }
+h2, .h2 { font-size: 1.65rem; font-weight: 700; letter-spacing: -0.025em; color: var(--text-primary); }
+h3, .h3 { font-size: 1.4rem; font-weight: 700; letter-spacing: -0.02em; color: var(--text-primary); }
+h4, .h4 { font-size: 1.25rem; font-weight: 600; letter-spacing: -0.02em; color: var(--text-primary); }
+h5, .h5 { font-size: 1.05rem; font-weight: 600; letter-spacing: -0.015em; color: var(--text-primary); }
+h6, .h6 { font-size: 0.95rem; font-weight: 600; letter-spacing: -0.01em; color: var(--text-primary); }
+
+p {
+  color: var(--text-secondary);
+  font-size: 14px;
+}
+
+.small, small {
+  font-size: 12.5px !important;
+  color: var(--text-muted);
+}
+
+button, input, select, textarea {
+  font-family: var(--font-family-base);
+}
+
+/* ================= MODERN PREMIUM CARD STYLING ================= */
+.card {
+  background-color: #ffffff;
+  border: 1px solid var(--border-color) !important;
+  border-radius: 16px !important;
+  box-shadow: var(--shadow-card) !important;
+  transition: transform 0.22s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.22s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.22s ease;
+}
+
+.card:hover {
+  border-color: #CBD5E1 !important;
+}
+
+.card-hover-effect:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-card-hover) !important;
+  border-color: #93C5FD !important;
+}
+
+/* Card Headers & Footers */
+.card-header {
+  background-color: #ffffff !important;
+  border-bottom: 1px solid #F1F5F9 !important;
+  padding: 16px 22px !important;
+}
+
+.card-footer {
+  background-color: #F8FAFC !important;
+  border-top: 1px solid #F1F5F9 !important;
+}
+
+/* ================= PREMIUM STAT / KPI CARD STYLING ================= */
+.kpi-stat-card {
+  position: relative;
+  overflow: hidden;
+  padding: 22px !important;
+  background: #ffffff;
+  border-radius: 16px;
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow-card);
+  transition: all 0.22s ease;
+}
+
+.kpi-stat-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-card-hover);
+  border-color: #BFDBFE;
+}
+
+.kpi-stat-card .kpi-icon-badge {
+  width: 50px;
+  height: 50px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.kpi-stat-card .kpi-title {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-secondary);
+  text-transform: capitalize;
+  letter-spacing: 0.1px;
+}
+
+.kpi-stat-card .kpi-value {
+  font-size: 1.75rem;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  color: var(--text-primary);
+  margin-top: 4px;
+  margin-bottom: 8px;
+}
+
+/* ================= MODERN RESPONSIVE TABLE STYLING ================= */
+.table-responsive {
+  border-radius: 0 0 16px 16px;
+}
+
+.table {
+  margin-bottom: 0;
+  font-size: 13.5px;
+}
+
+.table thead th {
+  background-color: #F8FAFC !important;
+  color: #475569 !important;
+  font-weight: 600;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  border-bottom: 1px solid #E2E8F0 !important;
+  padding: 14px 18px !important;
+}
+
+.table tbody td {
+  padding: 16px 18px !important;
+  vertical-align: middle;
+  border-bottom: 1px solid #F1F5F9;
+  color: var(--text-primary);
+}
+
+.table-hover tbody tr:hover td {
+  background-color: #F8FAFC !important;
+}
+
+/* ================= BUTTONS & INPUT POLISH ================= */
+.btn {
+  font-family: var(--font-family-base);
+  font-size: 13.5px;
+  font-weight: 500;
+  border-radius: 10px;
+  padding: 8px 16px;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.btn-sm {
+  font-size: 12.5px;
+  padding: 6px 12px;
+  border-radius: 8px;
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, #2874F0 0%, #1754C7 100%) !important;
+  border: 1px solid #1E60D4 !important;
+  color: #ffffff !important;
+  box-shadow: 0 4px 12px rgba(40, 116, 240, 0.25) !important;
+}
+
+.btn-primary:hover, .btn-primary:focus {
+  background: linear-gradient(135deg, #1C62D6 0%, #0F45A8 100%) !important;
+  box-shadow: 0 6px 16px rgba(40, 116, 240, 0.35) !important;
+  transform: translateY(-1px);
+}
+
+.btn-outline-primary {
+  color: var(--primary-color) !important;
+  border-color: #BFDBFE !important;
+  background-color: #FFFFFF !important;
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--primary-light) !important;
+  border-color: var(--primary-color) !important;
+  color: var(--primary-dark) !important;
+}
+
+.form-control, .form-select {
+  font-size: 13.5px;
+  border-radius: 10px;
+  border: 1px solid #CBD5E1;
+  padding: 9px 14px;
+  color: var(--text-primary);
+  background-color: #ffffff;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.form-control:focus, .form-select:focus {
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 3px rgba(40, 116, 240, 0.15);
+  background-color: #ffffff;
+}
+
+/* ================= MODERN PILL BADGES ================= */
+.badge {
+  font-family: var(--font-family-base);
+  font-size: 11.5px;
+  font-weight: 500;
+  padding: 5px 10px;
+  letter-spacing: 0.2px;
+}
+
+/* Soft Subdued Badges */
+.bg-primary-subtle { background-color: #EEF4FF !important; color: #1D4ED8 !important; }
+.bg-success-subtle { background-color: #ECFDF5 !important; color: #047857 !important; }
+.bg-warning-subtle { background-color: #FFFBEB !important; color: #B45309 !important; }
+.bg-danger-subtle  { background-color: #FEF2F2 !important; color: #B91C1C !important; }
+.bg-info-subtle    { background-color: #F0F9FF !important; color: #0369A1 !important; }
+
+/* Custom Sleek Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f8fafc;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}

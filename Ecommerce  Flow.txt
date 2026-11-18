@@ -1,0 +1,703 @@
+Complete E-commerce App – A to Z Pages
+1. Splash & Onboarding Pages
+Gaja Shop - E commerce Shopping App :: Behance
+ 
+App onboarding
+ 
+Shop Mobile App Onboarding by UI Raihan  on Dribbble
+
+ 
+Splash Screen
+
+App Introduction Screen
+
+Onboarding Screen 1
+
+Onboarding Screen 2
+
+Onboarding Screen 3
+
+Language Selection
+
+Country Selection
+
+Location Permission
+
+Notification Permission
+
+2. Authentication Pages
+Create Account / Log In Screen / Ecommerce App Concept by BlockAI Studio on Dribbble
+ 
+Otp Verification designs, themes, templates and downloadable graphic elements on Dribbble
+ 
+Forgot Password Screen – AI-Powered Sales CRM Mobile App by Riazul Islam on Dribbble
+
+ 
+Login Page
+
+Sign Up Page
+
+Mobile Number Login
+
+Email Login
+
+OTP Verification
+
+Forgot Password
+
+Reset Password
+
+Create New Password
+
+Social Login
+
+Logout Confirmation
+
+3. Home & Main Pages
+Shopping app - Splash & Home Screen design by UI Munna 🔥 on Dribbble
+ 
+Ecommerce App by Mahmoud Sami on Dribbble
+ 
+E-commerce Clothing Store Mobile App by AbdulQudus on Dribbble
+
+ 
+Home Page
+
+Category Page
+
+All Categories Page
+
+Subcategory Page
+
+Featured Products Page
+
+Trending Products Page
+
+Best Selling Products Page
+
+New Arrivals Page
+
+Recommended Products Page
+
+Deals & Offers Page
+
+Flash Sale Page
+
+Brand Listing Page
+
+Brand Details Page
+
+4. Search & Filter Pages
+Search Page
+
+Search Suggestions Page
+
+Recent Searches Page
+
+Popular Searches Page
+
+Search Results Page
+
+Filter Page
+
+Sort By Page
+
+Price Range Filter
+
+Brand Filter
+
+Rating Filter
+
+Color Filter
+
+Size Filter
+
+Availability Filter
+
+5. Product Pages
+Product Details for E-commerce App by Mahmoud Sami on Dribbble
+ 
+Ecommerce App UI/UX Design | Fashion | Mobile | Shopping by S Ha on Dribbble
+ 
+E-Commerce: Product Detail & Reviews by E. Ceren K.  on Dribbble
+
+ 
+Product Listing Page
+
+Product Details Page
+
+Product Image Gallery
+
+Product Video Page
+
+Product Description Page
+
+Product Specifications Page
+
+Select Size Page
+
+Select Color Page
+
+Select Quantity
+
+Product Reviews Page
+
+Customer Ratings Page
+
+Write a Review Page
+
+Related Products Page
+
+Similar Products Page
+
+Frequently Bought Together Page
+
+Recently Viewed Products Page
+
+6. Wishlist & Cart Pages
+Redesign - Uniqlo Mobile App by Fadzrian Gibran on Dribbble
+ 
+E-Commerce Mobile App Design | Online Store App UI :: Behance
+ 
+E-Commerce - Order Summary by Mohab Marwan on Dribbble
+
+ 
+Wishlist Page
+
+My Favorites Page
+
+Shopping Cart Page
+
+Empty Cart Page
+
+Cart Item Details
+
+Apply Coupon Page
+
+Coupon Listing Page
+
+Gift Card Page
+
+Order Summary Page
+
+Save for Later Page
+
+7. Checkout & Address Pages
+Checkout Page
+
+Select Address Page
+
+Add New Address Page
+
+Edit Address Page
+
+Manage Addresses Page
+
+Select Delivery Option
+
+Delivery Instructions Page
+
+Billing Address Page
+
+Order Review Page
+
+Place Order Page
+
+Order Success Page
+
+Order Failed Page
+
+8. Payment Pages
+Payment Method Page
+
+UPI Payment Page
+
+Credit Card Page
+
+Debit Card Page
+
+Net Banking Page
+
+Wallet Payment Page
+
+Cash on Delivery Page
+
+Payment Processing Page
+
+Payment Success Page
+
+Payment Failed Page
+
+Payment History Page
+
+Refund Status Page
+
+9. My Orders Pages
+My Orders designs, themes, templates and downloadable graphic elements on Dribbble
+ 
+cognicart: AI Shopping & Ecommerce App - Filter Duration UIUX by finterface on Dribbble
+ 
+Daily Objects - Order details UI redesign by Rahul R Nadkarni on Dribbble
+
+ 
+My Orders Page
+
+All Orders Page
+
+Pending Orders Page
+
+Confirmed Orders Page
+
+Processing Orders Page
+
+Shipped Orders Page
+
+Out for Delivery Page
+
+Delivered Orders Page
+
+Cancelled Orders Page
+
+Order Details Page
+
+Track Order Page
+
+Download Invoice Page
+
+Cancel Order Page
+
+Return Order Page
+
+Exchange Product Page
+
+Refund Details Page
+
+Reorder Page
+
+10. User Profile Pages
+Redesigning Licious🥩 for Freshness, Trust & Speed | by Amiya Chaturvedi | Medium
+ 
+Mininest - Magento 2 Mobile App Builder for iOS/Android | Magenest
+ 
+Dark Theme Shopping/Ecommerce Profile UI by Welldux on Dribbble
+
+ 
+My Profile Page
+
+Edit Profile Page
+
+Personal Information Page
+
+Change Password Page
+
+Manage Addresses Page
+
+Saved Payment Methods
+
+My Wishlist
+
+My Reviews
+
+My Questions & Answers
+
+My Coupons
+
+My Wallet
+
+My Rewards
+
+Loyalty Points
+
+Referral & Earn Page
+
+Account Settings
+
+Delete Account Page
+
+11. Notification & Communication Pages
+Notification List Page
+
+Notification Details Page
+
+Order Notifications
+
+Promotional Notifications
+
+Offers Notifications
+
+Email Preferences
+
+SMS Preferences
+
+Push Notification Settings
+
+Customer Support Chat
+
+Live Chat Page
+
+Contact Us Page
+
+12. Support & Information Pages
+Help Center
+
+FAQ Page
+
+About Us
+
+Contact Us
+
+Privacy Policy
+
+Terms & Conditions
+
+Return Policy
+
+Refund Policy
+
+Shipping Policy
+
+Cancellation Policy
+
+Grievance Redressal
+
+Report a Problem
+
+Feedback Page
+
+Rate Our App
+
+13. Seller Panel (Multi-vendor App)
+Agar tumhari app mein multiple sellers honge, toh seller ke liye alag panel hona chahiye.
+
+Seller Dashboard designs, themes, templates and downloadable graphic elements on Dribbble
+ 
+E-Commerce Product Management Dashboard UI Design by Rahat Kabir for Nuvelabs on Dribbble
+ 
+E-Commerce - Order Management by Filllo - SaaS Design Agency on Dribbble
+
+ 
+Seller Registration
+
+Seller Login
+
+Seller OTP Verification
+
+Seller Dashboard
+
+Seller Profile
+
+Store Setup Page
+
+Store Details Page
+
+Bank Details Page
+
+KYC Verification Page
+
+Add Product Page
+
+Manage Products Page
+
+Edit Product Page
+
+Product Approval Status
+
+Inventory Management
+
+Stock Management
+
+Seller Orders Page
+
+Order Details Page
+
+Accept Order Page
+
+Reject Order Page
+
+Shipment Management
+
+Return Requests
+
+Seller Reviews
+
+Sales Analytics
+
+Earnings Page
+
+Commission Details
+
+Payout History
+
+Withdraw Money Page
+
+Seller Support Page
+
+14. Delivery Boy App Pages
+Foody - Delivery Partner App :: Behance
+ 
+Belivery - Food Order Application Figma UI Kit
+ 
+Proof of Delivery App UI — Signature & Shipment Tracker by Tariqul Islam on Dribbble
+
+ 
+Delivery Boy Login
+
+OTP Verification
+
+Delivery Boy Registration
+
+KYC Verification
+
+Delivery Dashboard
+
+Online/Offline Status
+
+New Delivery Requests
+
+Assigned Orders
+
+Order Details
+
+Customer Details
+
+Customer Location
+
+Map & Navigation
+
+Pickup Confirmation
+
+Delivery Confirmation
+
+OTP Delivery Verification
+
+Upload Delivery Proof
+
+Cancel Delivery
+
+Delivery History
+
+Earnings
+
+Wallet
+
+Payment History
+
+Profile
+
+Support
+
+Emergency Contact
+
+15. Admin Panel Pages
+Ecommerce Admin Dashboard Design by Nabil ✪ for Yscale Studio on Dribbble
+ 
+Biosynthesie — eCommerce Product Management Dashboard UI Design by Azizul Islam on Dribbble
+ 
+E-Commerce - Order Management by Filllo Design Agency on Dribbble
+
+ 
+Ye sabse important backend panel hai.
+
+Dashboard & Analytics
+
+Admin Login
+
+Admin Dashboard
+
+Sales Analytics
+
+Revenue Analytics
+
+Order Analytics
+
+Customer Analytics
+
+Product Analytics
+
+Product Management
+8. All Products
+9. Add Product
+10. Edit Product
+11. Product Details
+12. Product Approval
+13. Product Variants
+14. Product Reviews
+15. Product Stock
+16. Bulk Product Upload
+
+Category & Brand Management
+17. All Categories
+18. Add Category
+19. Edit Category
+20. Subcategories
+21. All Brands
+22. Add Brand
+23. Manage Brands
+
+Order Management
+24. All Orders
+25. New Orders
+26. Processing Orders
+27. Shipped Orders
+28. Delivered Orders
+29. Cancelled Orders
+30. Return Requests
+31. Exchange Requests
+32. Refund Management
+
+Customer Management
+33. All Customers
+34. Customer Details
+35. Customer Orders
+36. Customer Reviews
+37. Block/Unblock Customer
+
+Seller Management
+38. All Sellers
+39. Add Seller
+40. Seller Details
+41. Seller KYC
+42. Seller Approval
+43. Seller Commission
+44. Seller Payments
+
+Delivery Management
+45. All Delivery Partners
+46. Add Delivery Partner
+47. Assign Orders
+48. Delivery Tracking
+49. Delivery Zones
+50. Delivery Charges
+
+Marketing Management
+51. Banner Management
+52. Coupon Management
+53. Flash Sale Management
+54. Offers Management
+55. Push Notifications
+56. Referral Management
+57. Loyalty Program
+
+Finance Management
+58. All Transactions
+59. Payment Management
+60. Refund Management
+61. Wallet Management
+62. Seller Payouts
+63. Commission Reports
+64. GST & Tax Management
+65. Invoice Management
+
+Website & App Management
+66. Home Page Management
+67. Slider Management
+68. Static Pages
+69. FAQ Management
+70. Blog Management
+71. Contact Information
+72. App Version Management
+
+System Settings
+73. General Settings
+74. Profile Settings
+75. Role & Permission Management
+76. Staff Management
+77. Language Settings
+78. Currency Settings
+79. Payment Gateway Settings
+80. Shipping Settings
+81. Tax Settings
+82. Email Settings
+83. SMS Settings
+84. Notification Settings
+85. API Settings
+86. Security Settings
+87. Activity Logs
+
+Reports
+88. Sales Reports
+89. Order Reports
+90. Product Reports
+91. Customer Reports
+92. Seller Reports
+93. Delivery Reports
+94. Payment Reports
+95. Inventory Reports
+
+16. Extra Advanced Pages
+Membership Plans
+
+Subscription Plans
+
+Compare Products
+
+Product Questions & Answers
+
+Gift Cards
+
+Refer & Earn
+
+Reward Points
+
+Spin & Win
+
+Scratch Cards
+
+Store Locator
+
+Recently Viewed
+
+Personalized Recommendations
+
+Live Shopping
+
+AI Shopping Assistant
+
+Product Comparison
+
+Price Drop Alerts
+
+Back in Stock Alerts
+
+Multi-language Selection
+
+Multi-currency Selection
+
+Business/Wholesale Shopping
+
+Complete app structure – Recommended
+Ek professional multi-vendor e-commerce project ko is tarah divide karo:
+
+E-commerce ecosystem
+E-COMMERCE PLATFORM
+
+Shared backend, database and APIs
+
+Customer App
+
+Shopping, Cart, Orders, Profile, Payment
+
+Seller Panel
+
+Products, Stock, Orders, Earnings
+
+Delivery App
+
+Pickup, Delivery, Tracking, Earnings
+
+Admin Panel
+
+Users, Products, Orders, Reports, Settings
+
+Meri recommendation
+Agar tum first time e-commerce app develop kar rahe ho, toh pehle ye essential pages banao:
+
+Customer: 20–25 core pages.
+
+Seller: 10–15 core pages.
+
+Admin: 20–30 core pages.
+
+Delivery: 8–12 core pages.
+
+Baaki advanced features baad mein add kar sakte ho. Har feature ke liye alag screen zaroori nahi hoti; kuch features existing pages ke sections ya popups bhi ho sakte hain.

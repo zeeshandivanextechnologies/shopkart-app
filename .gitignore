@@ -1,0 +1,25 @@
+# Dependency directories (never push to git)
+node_modules/
+*/node_modules/
+
+# Production build outputs
+dist/
+build/
+*/dist/
+*/build/
+android/app/build/
+*.apk
+*.aab
+
+# Local caches & temporary files
+.expo/
+.gradle/
+*.log
+.DS_Store
+Thumbs.db
+
+# Secrets & Local environments
+.env
+.env.local
+.env.*.local
+local.properties
